@@ -59,7 +59,7 @@ public class Main {
                     result = fnum * snum;
                     break;
                 } else if(operation == 4){
-                    result = fnum * snum;
+                    result = fnum / snum;
                     break;
                 } else System.out.println("Вы ввели недопустимое значение операции, задайте его заного");
 
